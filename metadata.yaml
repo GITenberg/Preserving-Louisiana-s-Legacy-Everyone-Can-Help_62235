@@ -1,0 +1,27 @@
+_repo: Preserving-Louisiana-s-Legacy-Everyone-Can-Help_62235
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawkins, Nancy W.
+    alias: Neuman, Nancy W. Hawkins
+    gutenberg_agent_id: '51817'
+    url: http://www.gutenberg.org/2009/agents/51817
+description: ''
+gutenberg_issued: '2020-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62235'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Louisiana -- Antiquities -- Collection and preservation'
+- !lcc 'F350.5'
+- !lcc 'E011'
+- !lcsh 'Louisiana -- Antiquities -- Collection and preservation'
+- !lcsh 'Historic sites -- Louisiana -- Conservation and restoration'
+- !lcsh 'Archaeology -- Methodology'
+- GITenberg
+title: 'Preserving Louisiana''s Legacy: Everyone Can Help'
+url: http://www.gutenberg.org/ebooks/62235
